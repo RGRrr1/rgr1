@@ -3,6 +3,8 @@ Website : https://www.zerotheme.com
 Zerogrid System for Responsive Design - https://www.zerotheme.com/zerogrid-a-simple-grid-system-for-responsive-design
 Contact Form Ready to use - Open file contact.php and change your email.
 
+
+
 /*----License----*/
 + You have the rights to use the resources for personal and commercial project(s) purposes.
 + You are not allowed to remove back link at the footer in template. If you want to remove it, you should contact us about this. https://www.zerotheme.com/contact-us
