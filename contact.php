@@ -86,8 +86,7 @@ if(isset($_POST['SubmitContact']))
     <!--[if lt IE 9]>
 		<script src="js/html5.js"></script>
 		<script src="js/css3-mediaqueries.js"></script>
-	<![endif]-->
-    
+	<![endif]-->  
 </head>
 <body class="contact-page">
 <div class="wrap-body">
@@ -239,4 +238,4 @@ if(isset($_POST['SubmitContact']))
 	</script>
 	
 </div>
-</body></html>
+</body> </html>
